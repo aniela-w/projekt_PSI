@@ -7,7 +7,7 @@ Projekt zaliczeniowy realizowany w ramach przedmiotu **Projektowanie Systemów I
 - `projekt_analiza_sentymentu_romcoms.R` – główny kod analityczny
 - `projekt_analiza_sentymentu_romcoms.html` – raport HTML z komentarzami
 - `SRS_analiza_sentymentu_romcoms.docx` – dokumentacja projektu (SRS)
-- `data/` – pliki scenariuszy filmowych
+- `data` – pliki scenariuszy filmowych
 - `README.md` – ten plik 
 
 # Zespół projektowy
