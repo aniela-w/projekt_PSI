@@ -8,7 +8,7 @@ Projekt zaliczeniowy realizowany w ramach przedmiotu **Projektowanie Systemów I
 - `projekt_analiza_sentymentu_romcoms.html` – raport HTML z komentarzami
 - `SRS_analiza_sentymentu_romcoms.docx` – dokumentacja projektu (SRS)
 - `data/` – pliki scenariuszy filmowych
-- `README.md` – ten plik# projekt_PSI
+- `README.md` – ten plik projekt_PSI
 
 # Zespół projektowy
 - Aniela Wróblewska –  przygotowanie kodu analizy w języku R oraz stworzenie raportu HTML z komentarzami i wizualizacjami wyników
